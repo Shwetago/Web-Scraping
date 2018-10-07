@@ -1,6 +1,6 @@
 # Web-Scraping
 
-Web Scraping is a technique used to extract data from websites. In this I have used `Jupyter Notebook` but you can use IDLE or whatever interpreter you use for python.
+Web Scraping is a technique used to extract data from websites. In this I have used `Jupyter Notebook` but you can use IDLE as well.
 
 # Install
 ```
